@@ -1,4 +1,4 @@
-#Student Grade Calculator
+#Grade Calculator
 
 print("__GRADE EVALUATION SYSTEM__")
 marks=float(input("Enter your marks(0-100):"))    #taking inpput
@@ -26,4 +26,5 @@ else:
 print(f"\nGrade:{grade}")
 
 print(f"Teacher's Remark:{commment}")
+
 
